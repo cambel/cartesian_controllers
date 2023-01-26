@@ -104,6 +104,7 @@ generate_dynamic_reconfigure_options(
         cfg/PDGains.cfg
         cfg/DampedLeastSquaresSolver.cfg
         cfg/ForwardDynamicsSolver.cfg
+        cfg/Solver.cfg
 )
 
 ###################################
